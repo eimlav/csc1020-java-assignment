@@ -1,6 +1,7 @@
 = = = = = = = = = = = = = 
  CSC1020 Java Assignment
   TV Review Application
+      Eimhin Laverty
 = = = = = = = = = = = = = 
 
 To edit or remove a TV series, administrator mode must be activated. 
